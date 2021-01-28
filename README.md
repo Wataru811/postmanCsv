@@ -1,4 +1,4 @@
-# postmanCsv
+# postmanCsv 
 
 extract URL, method from postman.json
 
@@ -7,3 +7,8 @@ extract URL, method from postman.json
 
 python3 postmanCsv.py <postman.json.file>
 
+
+
+## Version
+
+1.0 extract URL, Method, comment
