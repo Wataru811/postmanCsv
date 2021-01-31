@@ -3,7 +3,7 @@
 extract URL, method from postman.json
 
 
-## how to use
+## Usage
 
 ```
 python3 postmanCsv.py <postman.json.file>
